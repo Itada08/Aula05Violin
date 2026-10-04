@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Mouse",
+    "preco": 100,
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "nome": "Teclado Mecânico",
+    "preco": 250,
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "nome": "Monitor 24\"",
+    "preco": 899.9,
+    "deletedAt": null
+  }
+]
